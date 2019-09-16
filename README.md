@@ -14,3 +14,9 @@ https://www.udemy.com/complete-react-developer-zero-to-mastery/learn/#questions/
 
 ## Why selector memoization is needed (Reselect)
 https://www.udemy.com/complete-react-developer-zero-to-mastery/learn/#questions/7999140
+
+## Arrow Function
+https://www.udemy.com/complete-react-developer-zero-to-mastery/learn/#questions/8055616
+
+## React Rerender
+https://www.udemy.com/complete-react-developer-zero-to-mastery/learn/#questions/8098057
