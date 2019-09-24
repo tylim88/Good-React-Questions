@@ -1,7 +1,7 @@
 # Good-React-Questions
 
 ## The difference between component and render attribute(React Router)
-https://www.udemy.com/complete-react-developer-zero-to-mastery/learn/lecture/15160862#questions/8015918
+https://www.udemy.com/complete-react-developer-zero-to-mastery/learn/#questions/8015918
 
 ## How to solve memory leak in React
 https://www.udemy.com/complete-react-developer-zero-to-mastery/learn/#questions/8016276
