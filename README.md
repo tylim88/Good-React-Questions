@@ -20,3 +20,9 @@ https://www.udemy.com/complete-react-developer-zero-to-mastery/learn/#questions/
 
 ## React Rerender
 https://www.udemy.com/complete-react-developer-zero-to-mastery/learn/#questions/8098057
+
+## How Selector Get State
+https://www.udemy.com/complete-react-developer-zero-to-mastery/learn/#questions/8252984
+
+## useEffect and Closure
+https://www.udemy.com/complete-react-developer-zero-to-mastery/learn/#questions/8165288
