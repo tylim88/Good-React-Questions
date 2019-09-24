@@ -15,14 +15,14 @@ https://www.udemy.com/complete-react-developer-zero-to-mastery/learn/#questions/
 ## Why selector memoization is needed (Reselect)
 https://www.udemy.com/complete-react-developer-zero-to-mastery/learn/#questions/7999140
 
-## Arrow Function
+## Arrow Function (JS)
 https://www.udemy.com/complete-react-developer-zero-to-mastery/learn/#questions/8055616
 
 ## React Rerender
 https://www.udemy.com/complete-react-developer-zero-to-mastery/learn/#questions/8098057
 
-## How Selector Get State
+## How Selector consume Arguments (Reselect)
 https://www.udemy.com/complete-react-developer-zero-to-mastery/learn/#questions/8252984
 
-## useEffect and Closure
+## useEffect and Closure (Hook)
 https://www.udemy.com/complete-react-developer-zero-to-mastery/learn/#questions/8165288
