@@ -24,5 +24,5 @@ https://www.udemy.com/complete-react-developer-zero-to-mastery/learn/#questions/
 ## How Selector consume Arguments (Reselect)
 https://www.udemy.com/complete-react-developer-zero-to-mastery/learn/#questions/8252984
 
-## useEffect and Closure (Hook)
+## useEffect and Closure
 https://www.udemy.com/complete-react-developer-zero-to-mastery/learn/#questions/8165288
