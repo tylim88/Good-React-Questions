@@ -26,3 +26,6 @@ https://www.udemy.com/complete-react-developer-zero-to-mastery/learn/#questions/
 
 ## useEffect and Closure
 https://www.udemy.com/complete-react-developer-zero-to-mastery/learn/#questions/8165288
+
+## How to hide firebase config keys
+https://www.udemy.com/course/complete-react-developer-zero-to-mastery/learn/lecture/15037570#questions/8195264
