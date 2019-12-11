@@ -32,3 +32,6 @@ https://www.udemy.com/course/complete-react-developer-zero-to-mastery/learn/lect
 
 ## What is API
 https://www.udemy.com/course/complete-react-developer-zero-to-mastery/learn/lecture/15351942#questions/7970944
+
+## Server Side Rendering vs Client Side Rendering vs Static Page
+https://www.udemy.com/course/complete-react-developer-zero-to-mastery/learn/lecture/15307566#questions/8836210
