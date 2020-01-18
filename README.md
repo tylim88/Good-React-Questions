@@ -35,3 +35,6 @@ https://www.udemy.com/course/complete-react-developer-zero-to-mastery/learn/lect
 
 ## Server Side Rendering vs Client Side Rendering vs Static Page
 https://www.udemy.com/course/complete-react-developer-zero-to-mastery/learn/lecture/15307566#questions/8836210
+
+## React Context Demonstration
+https://www.udemy.com/course/complete-react-developer-zero-to-mastery/learn/#questions/9148972
