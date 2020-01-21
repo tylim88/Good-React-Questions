@@ -39,5 +39,5 @@ https://www.udemy.com/course/complete-react-developer-zero-to-mastery/learn/lect
 ## React Context Demonstration (with memo)
 https://www.udemy.com/course/complete-react-developer-zero-to-mastery/learn/#questions/9148972
 
-## Fiurebase Rule Issue
+## Firebase Rule Issue
 https://www.udemy.com/course/complete-react-developer-zero-to-mastery/learn/#questions/9157372
