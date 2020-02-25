@@ -16,7 +16,7 @@ https://www.udemy.com/complete-react-developer-zero-to-mastery/learn/#questions/
 https://www.udemy.com/complete-react-developer-zero-to-mastery/learn/#questions/7999140
 
 ## Arrow Function (JS)
-https://www.udemy.com/complete-react-developer-zero-to-mastery/learn/#questions/8055616
+https://www.udemy.com/course/complete-react-developer-zero-to-mastery/learn/lecture/15150656#questions/9482138
 
 ## React Rerender
 https://www.udemy.com/complete-react-developer-zero-to-mastery/learn/#questions/8098057
